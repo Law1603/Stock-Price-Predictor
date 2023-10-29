@@ -41,6 +41,8 @@ The program has been tested for the following stocks:
   ![image](https://github.com/Law1603/Stock-Price-Predictor/assets/78369461/82f2d7a5-78ee-42c1-90c0-ab3ce8511099)
 
 - Apple (AAPL)
+  ![image](https://github.com/Law1603/Stock-Price-Predictor/assets/78369461/9fdc7ca7-7f38-4e1b-aa3a-0c374b269878)
+
 
 ## Disclaimer
 
