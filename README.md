@@ -1,6 +1,24 @@
 # Stock-Price-Predictor
 This program predicts stock prices using LSTM (Long Short-Term Memory) neural networks. The data is fetched using the `yfinance` library which connects to Yahoo Finance.
 
+## Steps Taken to Create this Project
+
+1. **Data Collection:** Used the `yfinance` library to fetch historical stock prices from Yahoo Finance.
+2. **Data Preprocessing:** The fetched data was scaled using `MinMaxScaler` from `scikit-learn` to transform the stock prices to a range of 0 to 1.
+3. **Model Building:** Built an LSTM (Long Short-Term Memory) model using `tensorflow`. This model takes the past 60 days of stock prices to predict the next day's closing price.
+4. **Model Training:** The LSTM model was trained on the historical stock data.
+5. **Testing and Prediction:** After training, the model was tested on more recent data to predict stock prices and compare them with actual prices.
+6. **Visualization:** Used `matplotlib` to visualize the actual vs. predicted stock prices.
+
+## Libraries Used
+
+- `numpy`: For numerical operations and data manipulation.
+- `pandas`: For handling and analyzing structured data.
+- `matplotlib`: For plotting and visualizing data.
+- `yfinance`: For fetching stock data from Yahoo Finance.
+- `tensorflow`: For building and training the LSTM neural network model.
+- `scikit-learn`: For data preprocessing using `MinMaxScaler`.
+
 ## How to Run
 
 1. Ensure you have the required libraries installed:
@@ -24,4 +42,4 @@ The program has been tested for the following stocks:
 
 ## Disclaimer
 
-This program is for educational purposes only. **Do not use it to make investment decisions**. The stock market is unpredictable and influenced by numerous factors outside the scope of this program. Always consult with a financial advisor before making investment decisions.
+ **Do not use it to make investment decisions**. The stock market is unpredictable and influenced by numerous factors outside the scope of this program. 
