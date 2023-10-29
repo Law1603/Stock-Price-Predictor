@@ -38,6 +38,8 @@ The program has been tested for the following stocks:
 ![image](https://github.com/Law1603/Stock-Price-Predictor/assets/78369461/bde41416-b8e3-48b0-ae32-b5d71f9ceca4)
 
 - JP Morgan (JPM)
+  ![image](https://github.com/Law1603/Stock-Price-Predictor/assets/78369461/82f2d7a5-78ee-42c1-90c0-ab3ce8511099)
+
 - Apple (AAPL)
 
 ## Disclaimer
