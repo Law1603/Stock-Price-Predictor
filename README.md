@@ -17,7 +17,8 @@ This program predicts stock prices using LSTM (Long Short-Term Memory) neural ne
 
 The program has been tested for the following stocks:
 - Tesla (TSLA)
-![Alt text](image.png)
+![image](https://github.com/Law1603/Stock-Price-Predictor/assets/78369461/bde41416-b8e3-48b0-ae32-b5d71f9ceca4)
+
 - JP Morgan (JPM)
 - Apple (AAPL)
 
